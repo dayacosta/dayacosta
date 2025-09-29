@@ -1,5 +1,5 @@
 <h2 align="left">Hi there! just another profile presentation :)</h2>
-<h3 align="left">I'm learning rn</h3>
+<h3 style="margin-bottom: 20px;" align="left">I'm learning rn</h3>
 
 <img align="right" height="150" src="https://i.gifer.com/2R9u.gif"  /> 
 
