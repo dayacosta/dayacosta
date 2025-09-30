@@ -1,10 +1,10 @@
 <h2 align="left">Hi there! just another profile presentation :)</h2>
 <h3 align="left">I'm learning rn</h3>
 
-<img align="right" height="150" src="https://i.gifer.com/2R9u.gif"  /> 
+<img align="right" height="150" src="https://i.gifer.com/2R9u.gif" style="border: 2px solid #ccc; border-radius: 8px;" /> 
 
 
-<div align="left">
+<div align="left" style="margin-top: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -21,7 +21,7 @@
 </div>
 
 
-<div  align="left">
+<div  align="left" style="margin-top: 20px;">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
